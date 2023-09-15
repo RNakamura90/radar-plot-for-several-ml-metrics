@@ -1,0 +1,2 @@
+## Radar Chart to visualize several metrics
+This code enables the creation of radar charts, considering multiple subgroups, to better evaluate performance metrics of various Machine Learning models. First, an example dataframe was created, and subsequently, the chart itself.
